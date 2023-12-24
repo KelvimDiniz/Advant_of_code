@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@types/papaparse": "^5.3.11",
+    "axios": "^1.6.2",
+    "csv-parser": "^3.0.0",
+    "papaparse": "^5.4.1"
+  }
+}
